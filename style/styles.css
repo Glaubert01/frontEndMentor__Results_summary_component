@@ -255,8 +255,8 @@ body {
 
   .status {
     width: 20%;
-    padding-top: 52px;
-    padding-bottom: 52px;
+    padding-top: 32px;
+    padding-bottom: 32px;
   }
 
   .submit:hover {
