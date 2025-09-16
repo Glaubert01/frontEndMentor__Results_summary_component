@@ -184,7 +184,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    margin-top: 25vh;
+    margin-top: 27vh;
     margin-bottom: 30px;
   }
 
@@ -255,8 +255,8 @@ body {
 
   .status {
     width: 20%;
-    padding-top: 22px;
-    padding-bottom: 22px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
   .submit:hover {
